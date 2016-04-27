@@ -1,0 +1,7 @@
+{
+    "HELLO": "Hey, I'm so glad you set PedroBot up! Do you want to tell Pedro that you're talking to his bot? %[Yes](postback:twitter)",
+    "TWITTER": "Let's tweet @ Pedro so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "CONNECT ME": "",
+    "DISCONNECT": "Roger that, PedroBot is back."
+}
